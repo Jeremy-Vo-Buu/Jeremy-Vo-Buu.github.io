@@ -1,4 +1,4 @@
-Website Link: https://jeremy-vo-buu.github.io/
+Website Link: https://jvobuu.github.io/
 
 Stellar by HTML5 UP
 html5up.net | @ajlkn
